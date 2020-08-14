@@ -1,29 +1,21 @@
-# devtools
+# 网站内容： 常用开发工具、开放API等
 
-## Project setup
-```
-npm install
-```
+本项目完全开源, 项目持续更新中
 
-### Compiles and hot-reloads for development
-```
-npm run dev
-```
+前端： Vue
 
-### Compiles and minifies for production
-```
-npm run build
-```
+后端： Spring Boot
 
-### Run your tests
-```
-npm run test
-```
+后端项目地址: https://github.com/wangpinpin/devtools-server
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+目前功能： JSON格式化、二维码生成、颜色转换、舔狗日记、图片文字提取
+
+
+
+
+域名： https://wangpinpin.com/ （带宽很小）
+
+备用： http://139.196.199.233/ （速度快点）
